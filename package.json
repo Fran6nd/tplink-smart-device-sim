@@ -1,0 +1,19 @@
+{
+  "name": "tplink-smart-device-sim",
+  "version": "1.0.0",
+  "description": "A basic project to emulate TP-Link smart bulbs/plugs",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Fran6nd/tplink-smart-device-sim.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Fran6nd/tplink-smart-device-sim/issues"
+  },
+  "homepage": "https://github.com/Fran6nd/tplink-smart-device-sim#readme"
+}
